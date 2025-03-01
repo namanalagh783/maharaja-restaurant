@@ -1,1 +1,1 @@
-<h1>Local restaurants find and booking app</h1>
+<h1>Local restaurants App</h1>
